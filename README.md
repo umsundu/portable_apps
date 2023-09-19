@@ -1,2 +1,2 @@
 # portable_apps
-Portable apps for when local admin is not an option. 
+Portable apps for when installing is not an option.
